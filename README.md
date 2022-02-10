@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>CV</title>
+    <title>Страница</title>
   </head>
   <body>
    <h1>Это заголовок первого уровня</h1>
